@@ -1,1 +1,3 @@
-# petle-js-zestaw
+# Pętle w JavaScript
+
+Zestaw pięciu zadań - wykonaj tyle, ile potrafisz zrealizować
